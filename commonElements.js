@@ -1,4 +1,4 @@
-// Good morning! Write a function called commonElements that has parameters for two arrays.  Return an array of all items that are present in both arrays.  Do not modify the arrays that are passed in.
+// Good morning! Write a function called commonElements that has parameters for two arrays.  Return an array of all items that are present in both arrays.  Do not modify the arrays that are passed in. Need to add in extra ways to do this.
 
 function commonElements(arr1, arr2) {
     let arr = []
