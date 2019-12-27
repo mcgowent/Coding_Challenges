@@ -7,6 +7,8 @@
 
 // From the bitwise representation of numbers, we can calculate the bitwise AND, bitwise OR and bitwise XOR.Using the example above:
 
+// bitwiseAND(6, 23) ➞ 00000110 
+
 // bitwiseAND(6, 23) ➞ 00000110
 
 // bitwiseOR(6, 23) ➞ 00010111
