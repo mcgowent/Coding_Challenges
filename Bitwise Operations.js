@@ -9,7 +9,6 @@
 
 // bitwiseAND(6, 23) ➞ 00000110 
 
-// bitwiseAND(6, 23) ➞ 00000110
 
 // bitwiseOR(6, 23) ➞ 00010111
 
